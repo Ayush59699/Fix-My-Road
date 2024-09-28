@@ -7,8 +7,8 @@ React.JS and Python FaslApi based platform for feedback and reporting issues rel
 `https://github.com/Ayush59699/Fix-My-Road`
 
 ### Create Virtual Environment
-`python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+`python -m venv .env
+source .env/bin/activate  # On Windows: .env\Scripts\activate
 `
 
 ### Install the required dependencies
